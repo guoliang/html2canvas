@@ -1,6 +1,6 @@
 /*
-  html2canvas 0.5.0-beta5 <http://html2canvas.hertzen.com>
-  Copyright (c) 2017 Niklas von Hertzen
+  html2canvas 0.5.0-beta6 <http://html2canvas.hertzen.com>
+  Copyright (c) 2018 Niklas von Hertzen
 
   Released under  License
 */
